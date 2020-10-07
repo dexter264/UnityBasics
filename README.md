@@ -29,7 +29,6 @@ So, in the end the decisions up to you about what game engine to choose, and not
 ### The basic 2D engine
 
 
-
 As mentioned previously, Unity has the four game modes. The basic 2D, basic 3D, URP, and HDRP. The first of these is the 2D and the one this chapter is all about.
 The 2D side of Unity is perfect for side scrolling platformers, top-down RPGs, dungeon crawlers, roguelikes, or even older styles such as F Zero, Mortal Kombat, or even Star Fox.
 Now, the 2D is compatible with the URP for realistic lighting, but we will not get into that. But as it is, the 2D is powerful, now. After the 2018 version of Unity, the 2D tools have improved drastically. It has also made 2D physics quite fuller and more capable.
