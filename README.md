@@ -79,7 +79,19 @@ Normal settings: use collider mask, if it should use layers to know what to effe
 Now that you know the basics for 2D physics, the rest is up to you. Play around with these settings, modify things, and just have fun building awesome physics in your 2D games. The next step is 2D joints, but since this book is geared for beginners, we won’t get into all, of that now. 
 
 
-That pretty much sums up the 2D part of this book. Personally, 3D is my favorite mode to create games in, but 2D can also be fun and challenging. Now once again, most people think that 2D games generally aren’t as good as 3D ones, but I don’t think so. Generally, 3D games aren’t quite as solid as 2D ones because when they add another dimension people don’t think that they need to make as good of a game. So, in the end, most 2D games are very solid fun and an interesting experience to play.
+That pretty much sums up the 2D part of this book. Personally, 3D is my favorite mode to create games in, but 2D can also be fun and challenging. Now once again, most people think that 2D games generally aren’t as good as 3D ones, but I don’t think so. Generally, 3D games aren’t quite as solid as 2D ones because when they add another dimension people don’t think that they need to make as good of a game. So, in the end, most 2D games are very solid, fun, and an interesting experience to play.
 
 
+## Chapter 3
 
+
+### The basic 3D engine
+
+
+The next mode of game creation for Unity is the basic 3D. It can be used to create games such as Animal Crossing, Super Mario, or shooters like Perfect Dark, or Urban Terror. Although it is powerful, achieving spectacular graphics can only be achived with the URP or HDRP.
+
+
+The first thing about the 3D that you need to know, is lighting. Without lighting a scene is dark and dull. But with lighting you can create an amazing and awesome scene. The first thing to do is make sure you have a light source in your scene. A directional light is the best for this. It simulates light from the sun and with the sample, or procedural, skyboxes the sun in them will map itself to the directional light's direction.
+
+
+Now that you have a light in your scene, it is important that you bake the lighting.
