@@ -8,7 +8,7 @@
 ### Introduction
 
 
-If you are looking to create a game, but you can’t find a game engine, much less an easy to use one, or even a free option, consider Unity. Unity is an extremely powerful game engine that is used by game developers all over the world. Many people love it for its simplistic design and easy to use format. Yet, some people associate simplicity with incapability, and believe that it cannot be used to make anything to powerful, because nothing that simple can be that powerful, right? 
+If you are looking to create a game, but you can’t find a game engine, much less an easy to use one, or even a free option, consider Unity. Unity is an extremely powerful game engine that is used by game developers all over the world. Many people love it for its simplistic design and easy to use format. Yet, some people associate simplicity with incapability, and believe that it cannot be used to make anything too powerful, because nothing that simple can be that powerful, right? 
 
 
 Wrong. Unity is, hence the introductory statement, quite powerful. Some of the world’s most popular and successful games have been made on it, and now that it has been around for so long, it has gotten to be so popular that tutorials and assets are overflowing to help you get started building the best game you can make.
@@ -26,7 +26,7 @@ Probuilder, some people hate it, I personally love it. It’s a package made by 
 Moving on, now another useful tool is the terrain editor, it allows for rapid terrain modeling with tons of preset brushes and such. Also, its texture adding tools are quite amazing, it can slap just about any texture you want on there, and with full control of where to place it and everything, to make realistic mountains and rocks.
 
 
-So, in the end the decisions up to you about what game engine to choose, and not going to change your decision that much, but the facts will. Unity is an amazing game engine and there is no doubt about it. Even if you still think you want another, maybe you will think about this and choose Unity. 
+So, in the end the decision is up to you about what game engine to choose, and not going to change your decision that much, but the facts will. Unity is an amazing game engine and there is no doubt about it. Even if you still think you want another, maybe you will think about this and choose Unity. 
 
 
 
@@ -47,7 +47,7 @@ Now, the 2D is compatible with the URP for realistic lighting, but we will not g
 With the aid of the Rigidbody2D, the 2D physics handler, you can create quite a few effectors to make your games vivid and fun.
 
 
-To prepare to create an effector, create an empty Game Object, or use a sprite, give it any collider of your choosing, use a 2D polygon collider with sprites that have more complicated shapes, 2D circle collider for sprites with more round shapes, and 2D box collider for square shapes. I cannot stress this enough, make sure to get a 2D collider for 2D shapes! Anyway, set your collider to is trigger, check use by effector, and grab the effector of your choosing.
+To prepare to create an effector, create an empty Game Object, or use a sprite, give it any collider of your choosing, use a 2D polygon collider with sprites that have more complicated shapes, 2D circle collider for sprites with more round shapes, and 2D box collider for square shapes. I cannot stress this enough, make sure to get a 2D collider for 2D shapes! Anyway, set your collider to Is Trigger, check use by effector, and grab the effector of your choosing.
 
 
 2D Area Effector: Mostly to be used with empty game objects, it can add forces to any Rigidbody2Ds that come within its trigger. There are 2 sections to change settings in: Force and Damping.
