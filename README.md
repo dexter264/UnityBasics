@@ -2,7 +2,7 @@
 
 
 
-# Check out my You Tube channel here!
+### Check out my You Tube channel here!
 
 
 https://www.youtube.com/channel/UC-2jNgKnogFu54EjyUETgPg
@@ -101,4 +101,4 @@ The next mode of game creation for Unity is the basic 3D. It can be used to crea
 The first thing about the 3D that you need to know, is lighting. Without lighting a scene is dark and dull. But with lighting you can create an amazing and awesome scene. The first thing to do is make sure you have a light source in your scene. A directional light is the best for this. It simulates light from the sun and with the sample, or procedural, skyboxes the sun in them will map itself to the directional light's direction.
 
 
-Now that you have a light in your scene, it is important that you bake the lighting.
+Now that you have a light in your scene, it is important that you bake the lighting. To do this, simply pull up the lighting tab, (window/rendering/lighting settings), and then set up the lighting. Go under environment and set the sun sopurce to your directional light. Make sure the skybox is set to the skybox that is currently in your scene. After that you can simply hit bake and that's it! You now can customize ambient intensity, fog, and other settings.
