@@ -2,6 +2,13 @@
 
 
 
+# Check out my You Tube channel here!
+
+
+https://www.youtube.com/channel/UC-2jNgKnogFu54EjyUETgPg
+
+
+
 ## Chapter 1
 
 
